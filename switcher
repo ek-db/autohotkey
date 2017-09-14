@@ -26,7 +26,6 @@ Menu, Tray, Icon, shell32.dll, 16 ;this changes the icon into a little laptop th
 ;Applications used in this example:
 ;explorer
 ;chrome
-;premiere
 ;word
 
 
